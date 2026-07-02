@@ -1,0 +1,29 @@
+{
+  "job-1": {
+    "id": "rubric-1",
+    "jobId": "job-1",
+    "jobTitle": "Senior Frontend Engineer",
+    "status": "saved",
+    "generatedAt": "2026-06-02T09:12:00.000Z",
+    "requiredSkills": {
+      "weight": 35,
+      "items": ["React", "TypeScript", "Component architecture"]
+    },
+    "preferredSkills": {
+      "weight": 20,
+      "items": ["Tailwind CSS", "Framer Motion", "GraphQL"]
+    },
+    "softSkills": {
+      "weight": 15,
+      "items": ["Cross-functional collaboration", "Written communication"]
+    },
+    "experience": {
+      "weight": 20,
+      "items": ["5+ years building production web frontends"]
+    },
+    "education": {
+      "weight": 10,
+      "items": ["Bachelor's in CS or equivalent practical experience"]
+    }
+  }
+}

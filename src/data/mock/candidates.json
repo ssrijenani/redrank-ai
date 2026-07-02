@@ -1,0 +1,504 @@
+[
+  {
+    "id": "cand-1",
+    "jobId": "job-1",
+    "name": "Ananya Rao",
+    "title": "Senior Frontend Engineer @ Stripe",
+    "location": "Bengaluru, India",
+    "avatarInitials": "AR",
+    "overallScore": 94,
+    "skillMatch": 96,
+    "experienceMatch": 91,
+    "educationLevel": "M.S. Computer Science",
+    "resumeQuality": 95,
+    "aiConfidence": 97,
+    "matchedSkills": [
+      "React",
+      "TypeScript",
+      "Design Systems",
+      "Testing",
+      "Communication"
+    ],
+    "missingSkills": [
+      "Data Visualization"
+    ],
+    "scoreBreakdown": [
+      {
+        "axis": "React/TS",
+        "score": 97,
+        "maxScore": 100
+      },
+      {
+        "axis": "Design Systems",
+        "score": 92,
+        "maxScore": 100
+      },
+      {
+        "axis": "Experience",
+        "score": 91,
+        "maxScore": 100
+      },
+      {
+        "axis": "Collaboration",
+        "score": 90,
+        "maxScore": 100
+      },
+      {
+        "axis": "Education",
+        "score": 88,
+        "maxScore": 100
+      }
+    ],
+    "strengths": [
+      "Led the design system rebuild at her current company, adopted by 40+ engineers",
+      "Deep TypeScript expertise with strong testing discipline",
+      "Strong written communication evident in RFC samples"
+    ],
+    "weaknesses": [
+      "Limited exposure to data visualization libraries",
+      "No direct experience with Tailwind v4"
+    ],
+    "interviewQuestions": [
+      "Walk us through a time you had to deprecate a widely-used component \u2014 how did you manage the migration?",
+      "How do you decide what belongs in a shared design token system versus a one-off override?",
+      "Describe a disagreement with a designer over an interaction pattern and how it resolved."
+    ],
+    "summary": "Ananya is a strong match on every weighted criterion, with standout design-system leadership experience directly relevant to RedRank's component library work.",
+    "decision": "pending",
+    "notes": [],
+    "appliedAt": "2026-06-20T10:00:00.000Z",
+    "yearsOfExperience": 7,
+    "employmentGapMonths": 0,
+    "jobChangeCount": 2,
+    "interviewReadiness": 92,
+    "source": "LinkedIn"
+  },
+  {
+    "id": "cand-2",
+    "jobId": "job-1",
+    "name": "Devika Menon",
+    "title": "Frontend Engineer @ Razorpay",
+    "location": "Remote",
+    "avatarInitials": "DM",
+    "overallScore": 87,
+    "skillMatch": 90,
+    "experienceMatch": 80,
+    "educationLevel": "B.Tech Computer Science",
+    "resumeQuality": 88,
+    "aiConfidence": 90,
+    "matchedSkills": [
+      "React",
+      "TypeScript",
+      "Performance Optimization",
+      "Open Source"
+    ],
+    "missingSkills": [
+      "Design Systems Ownership"
+    ],
+    "scoreBreakdown": [
+      {
+        "axis": "React/TS",
+        "score": 92,
+        "maxScore": 100
+      },
+      {
+        "axis": "Design Systems",
+        "score": 78,
+        "maxScore": 100
+      },
+      {
+        "axis": "Experience",
+        "score": 80,
+        "maxScore": 100
+      },
+      {
+        "axis": "Collaboration",
+        "score": 85,
+        "maxScore": 100
+      },
+      {
+        "axis": "Education",
+        "score": 90,
+        "maxScore": 100
+      }
+    ],
+    "strengths": [
+      "Excellent performance optimization track record on large React apps",
+      "Strong open-source contribution history"
+    ],
+    "weaknesses": [
+      "Has not owned a design system end-to-end, only consumed one",
+      "Slightly under the 5-year experience bar"
+    ],
+    "interviewQuestions": [
+      "Tell us about the largest performance bottleneck you've diagnosed and fixed.",
+      "How would you approach building a component library from zero?"
+    ],
+    "summary": "Devika is a strong technical performer with excellent fundamentals, though slightly lighter on design-system ownership than top-ranked candidates.",
+    "decision": "pending",
+    "notes": [],
+    "appliedAt": "2026-06-21T13:20:00.000Z",
+    "yearsOfExperience": 5,
+    "employmentGapMonths": 0,
+    "jobChangeCount": 2,
+    "interviewReadiness": 85,
+    "source": "Referral"
+  },
+  {
+    "id": "cand-3",
+    "jobId": "job-1",
+    "name": "Karthik Subramanian",
+    "title": "Full Stack Engineer @ Freshworks",
+    "location": "Chennai, India",
+    "avatarInitials": "KS",
+    "overallScore": 76,
+    "skillMatch": 74,
+    "experienceMatch": 82,
+    "educationLevel": "B.E. Information Technology",
+    "resumeQuality": 80,
+    "aiConfidence": 78,
+    "matchedSkills": [
+      "Node.js",
+      "Full Stack Delivery",
+      "SQL"
+    ],
+    "missingSkills": [
+      "Design Systems",
+      "Frontend Depth"
+    ],
+    "scoreBreakdown": [
+      {
+        "axis": "React/TS",
+        "score": 75,
+        "maxScore": 100
+      },
+      {
+        "axis": "Design Systems",
+        "score": 60,
+        "maxScore": 100
+      },
+      {
+        "axis": "Experience",
+        "score": 82,
+        "maxScore": 100
+      },
+      {
+        "axis": "Collaboration",
+        "score": 80,
+        "maxScore": 100
+      },
+      {
+        "axis": "Education",
+        "score": 85,
+        "maxScore": 100
+      }
+    ],
+    "strengths": [
+      "Broad full-stack experience, comfortable across the whole pipeline",
+      "7 years of relevant industry experience"
+    ],
+    "weaknesses": [
+      "Frontend-specific depth is thinner than dedicated frontend candidates",
+      "No evidence of design system or component library work"
+    ],
+    "interviewQuestions": [
+      "Of your full-stack background, what percentage of recent work has been frontend-focused?",
+      "How comfortable are you specializing primarily in frontend going forward?"
+    ],
+    "summary": "Karthik brings strong overall experience but lighter frontend specialization relative to the rubric's weighting toward React/TS and design systems.",
+    "decision": "hold",
+    "notes": [
+      "Following up to confirm willingness to specialize in frontend."
+    ],
+    "appliedAt": "2026-06-19T09:45:00.000Z",
+    "yearsOfExperience": 7,
+    "employmentGapMonths": 3,
+    "jobChangeCount": 4,
+    "interviewReadiness": 70,
+    "source": "Job Board"
+  },
+  {
+    "id": "cand-4",
+    "jobId": "job-1",
+    "name": "Priya Iyer",
+    "title": "UI Engineer @ Zoho",
+    "location": "Pune, India",
+    "avatarInitials": "PI",
+    "overallScore": 68,
+    "skillMatch": 70,
+    "experienceMatch": 60,
+    "educationLevel": "B.Sc Computer Science",
+    "resumeQuality": 72,
+    "aiConfidence": 65,
+    "matchedSkills": [
+      "UI Craftsmanship",
+      "React"
+    ],
+    "missingSkills": [
+      "TypeScript Depth",
+      "5+ Years Experience"
+    ],
+    "scoreBreakdown": [
+      {
+        "axis": "React/TS",
+        "score": 72,
+        "maxScore": 100
+      },
+      {
+        "axis": "Design Systems",
+        "score": 65,
+        "maxScore": 100
+      },
+      {
+        "axis": "Experience",
+        "score": 60,
+        "maxScore": 100
+      },
+      {
+        "axis": "Collaboration",
+        "score": 70,
+        "maxScore": 100
+      },
+      {
+        "axis": "Education",
+        "score": 75,
+        "maxScore": 100
+      }
+    ],
+    "strengths": [
+      "Solid UI craftsmanship and attention to visual detail",
+      "Fast learner based on reference feedback"
+    ],
+    "weaknesses": [
+      "Only 3 years of experience, below the rubric's target",
+      "Limited TypeScript experience in production"
+    ],
+    "interviewQuestions": [
+      "Describe the most complex TypeScript type you've had to model and why.",
+      "How do you approach ramping up on an unfamiliar large codebase?"
+    ],
+    "summary": "Priya shows promising craft but currently falls short on the experience and TypeScript-depth criteria the rubric weights most heavily.",
+    "decision": "rejected",
+    "notes": [],
+    "appliedAt": "2026-06-18T15:10:00.000Z",
+    "yearsOfExperience": 3,
+    "employmentGapMonths": 0,
+    "jobChangeCount": 1,
+    "interviewReadiness": 55,
+    "source": "Company Website"
+  },
+  {
+    "id": "cand-5",
+    "jobId": "job-1",
+    "name": "Rohan Verma",
+    "title": "Senior Software Engineer @ Atlassian",
+    "location": "Remote",
+    "avatarInitials": "RV",
+    "overallScore": 90,
+    "skillMatch": 88,
+    "experienceMatch": 93,
+    "educationLevel": "B.Tech Computer Science",
+    "resumeQuality": 93,
+    "aiConfidence": 94,
+    "matchedSkills": [
+      "React",
+      "TypeScript",
+      "Mentorship",
+      "Leadership"
+    ],
+    "missingSkills": [
+      "Design System Ownership"
+    ],
+    "scoreBreakdown": [
+      {
+        "axis": "React/TS",
+        "score": 89,
+        "maxScore": 100
+      },
+      {
+        "axis": "Design Systems",
+        "score": 84,
+        "maxScore": 100
+      },
+      {
+        "axis": "Experience",
+        "score": 93,
+        "maxScore": 100
+      },
+      {
+        "axis": "Collaboration",
+        "score": 88,
+        "maxScore": 100
+      },
+      {
+        "axis": "Education",
+        "score": 92,
+        "maxScore": 100
+      }
+    ],
+    "strengths": [
+      "8 years of experience across multiple enterprise SaaS products",
+      "Has mentored junior engineers and led technical design reviews"
+    ],
+    "weaknesses": [
+      "Most recent design-system work was as a contributor, not an owner"
+    ],
+    "interviewQuestions": [
+      "What's a design decision you pushed back on and how did you make your case?",
+      "How do you balance shipping speed with long-term component maintainability?"
+    ],
+    "summary": "Rohan is a well-rounded senior candidate with strong experience depth, slightly behind Ananya only on direct design-system ownership.",
+    "decision": "approved",
+    "notes": [
+      "Great culture-fit signal from reference call."
+    ],
+    "appliedAt": "2026-06-17T08:30:00.000Z",
+    "yearsOfExperience": 8,
+    "employmentGapMonths": 0,
+    "jobChangeCount": 2,
+    "interviewReadiness": 90,
+    "source": "LinkedIn"
+  },
+  {
+    "id": "cand-6",
+    "jobId": "job-1",
+    "name": "Meera Nair",
+    "title": "Frontend Engineer @ Swiggy",
+    "location": "Bengaluru, India",
+    "avatarInitials": "MN",
+    "overallScore": 82,
+    "skillMatch": 85,
+    "experienceMatch": 78,
+    "educationLevel": "B.Tech Computer Science",
+    "resumeQuality": 84,
+    "aiConfidence": 86,
+    "matchedSkills": [
+      "React",
+      "TypeScript",
+      "Collaboration"
+    ],
+    "missingSkills": [
+      "Design Systems",
+      "Testing Discipline"
+    ],
+    "scoreBreakdown": [
+      {
+        "axis": "React/TS",
+        "score": 86,
+        "maxScore": 100
+      },
+      {
+        "axis": "Design Systems",
+        "score": 70,
+        "maxScore": 100
+      },
+      {
+        "axis": "Experience",
+        "score": 78,
+        "maxScore": 100
+      },
+      {
+        "axis": "Collaboration",
+        "score": 88,
+        "maxScore": 100
+      },
+      {
+        "axis": "Education",
+        "score": 80,
+        "maxScore": 100
+      }
+    ],
+    "strengths": [
+      "Shipped several high-traffic consumer features under tight deadlines",
+      "Well regarded by cross-functional partners in reference checks"
+    ],
+    "weaknesses": [
+      "Limited exposure to formal design-system tooling",
+      "Test coverage on past projects has been inconsistent"
+    ],
+    "interviewQuestions": [
+      "Walk through how you'd introduce testing discipline to a team without one.",
+      "What's your experience contributing to or consuming a component library?"
+    ],
+    "summary": "Meera is a solid mid-to-senior candidate with strong delivery speed, though design-systems and testing depth trail the top of the pool.",
+    "decision": "pending",
+    "notes": [],
+    "appliedAt": "2026-06-22T11:05:00.000Z",
+    "yearsOfExperience": 5,
+    "employmentGapMonths": 6,
+    "jobChangeCount": 3,
+    "interviewReadiness": 78,
+    "source": "Job Board"
+  },
+  {
+    "id": "cand-7",
+    "jobId": "job-1",
+    "name": "Arjun Malhotra",
+    "title": "Software Engineer @ Infosys",
+    "location": "Hyderabad, India",
+    "avatarInitials": "AM",
+    "overallScore": 58,
+    "skillMatch": 55,
+    "experienceMatch": 62,
+    "educationLevel": "B.E. Electronics",
+    "resumeQuality": 68,
+    "aiConfidence": 60,
+    "matchedSkills": [
+      "JavaScript",
+      "HTML/CSS"
+    ],
+    "missingSkills": [
+      "TypeScript",
+      "React Depth",
+      "Design Systems"
+    ],
+    "scoreBreakdown": [
+      {
+        "axis": "React/TS",
+        "score": 52,
+        "maxScore": 100
+      },
+      {
+        "axis": "Design Systems",
+        "score": 40,
+        "maxScore": 100
+      },
+      {
+        "axis": "Experience",
+        "score": 62,
+        "maxScore": 100
+      },
+      {
+        "axis": "Collaboration",
+        "score": 65,
+        "maxScore": 100
+      },
+      {
+        "axis": "Education",
+        "score": 70,
+        "maxScore": 100
+      }
+    ],
+    "strengths": [
+      "Comfortable with core JavaScript fundamentals",
+      "Non-CS-background candidate with demonstrated self-directed learning"
+    ],
+    "weaknesses": [
+      "Minimal production React/TypeScript experience",
+      "No exposure to design systems or component libraries"
+    ],
+    "interviewQuestions": [
+      "Walk us through the most complex React component you've built end-to-end.",
+      "How have you approached learning TypeScript so far?"
+    ],
+    "summary": "Arjun doesn't yet meet the core technical bar this rubric weights most heavily, particularly around React/TypeScript depth and design-systems exposure.",
+    "decision": "rejected",
+    "notes": [],
+    "appliedAt": "2026-06-16T14:40:00.000Z",
+    "yearsOfExperience": 4,
+    "employmentGapMonths": 0,
+    "jobChangeCount": 5,
+    "interviewReadiness": 45,
+    "source": "Job Board"
+  }
+]

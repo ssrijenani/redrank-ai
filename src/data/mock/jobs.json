@@ -1,0 +1,58 @@
+[
+  {
+    "id": "job-1",
+    "title": "Senior Frontend Engineer",
+    "company": "RedRank AI",
+    "location": "Remote",
+    "employmentType": "Full-time",
+    "description": "We're looking for a Senior Frontend Engineer to lead the development of our recruiter-facing dashboards. You'll work closely with design and AI teams to ship explainable, data-dense interfaces.",
+    "status": "active",
+    "candidateCount": 18,
+    "createdAt": "2026-06-02T09:00:00.000Z",
+    "updatedAt": "2026-06-28T14:30:00.000Z",
+    "department": "Engineering",
+    "recruiterName": "Sri Jenani"
+  },
+  {
+    "id": "job-2",
+    "title": "Product Designer, AI Workflows",
+    "company": "RedRank AI",
+    "location": "Pune, India (Hybrid)",
+    "employmentType": "Full-time",
+    "description": "Design the next generation of explainable AI hiring tools. You'll own end-to-end flows from job creation through candidate decisions.",
+    "status": "active",
+    "candidateCount": 11,
+    "createdAt": "2026-06-10T11:15:00.000Z",
+    "updatedAt": "2026-06-27T10:05:00.000Z",
+    "department": "Design",
+    "recruiterName": "Aisha Kapoor"
+  },
+  {
+    "id": "job-3",
+    "title": "Backend Engineer, Ranking Systems",
+    "company": "RedRank AI",
+    "location": "Bengaluru, India",
+    "employmentType": "Full-time",
+    "description": "Build and scale the ranking and scoring pipelines that power candidate evaluation across thousands of resumes per job.",
+    "status": "draft",
+    "candidateCount": 0,
+    "createdAt": "2026-06-25T08:40:00.000Z",
+    "updatedAt": "2026-06-25T08:40:00.000Z",
+    "department": "Engineering",
+    "recruiterName": "Rahul Deshmukh"
+  },
+  {
+    "id": "job-4",
+    "title": "Growth Marketing Lead",
+    "company": "RedRank AI",
+    "location": "Remote",
+    "employmentType": "Full-time",
+    "description": "Own demand generation and lifecycle marketing for our recruiter audience.",
+    "status": "closed",
+    "candidateCount": 24,
+    "createdAt": "2026-04-12T09:00:00.000Z",
+    "updatedAt": "2026-05-30T16:00:00.000Z",
+    "department": "Marketing",
+    "recruiterName": "Aisha Kapoor"
+  }
+]
